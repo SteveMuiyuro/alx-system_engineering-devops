@@ -1,1 +1,1 @@
-The script displays current working directory in long format
+This script displays directories including hidden files in long format
