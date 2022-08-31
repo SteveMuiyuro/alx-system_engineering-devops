@@ -1,1 +1,1 @@
-The file contains the command script for cd
+The script displays current working directory in long format
