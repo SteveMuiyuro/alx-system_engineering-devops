@@ -1,1 +1,1 @@
-This script displays the content of current directory
+The file contains the command script for cd
