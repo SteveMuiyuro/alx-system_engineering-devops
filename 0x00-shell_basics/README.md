@@ -10,3 +10,4 @@ This script ists all files (even ones with names beginning with a period charact
 This script prints the type of the file named
 This script creates a link
 This script copies unique files from the current directory to the parent directory
+This script moves all files starting with a capital letter
