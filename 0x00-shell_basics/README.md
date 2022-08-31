@@ -4,3 +4,4 @@ with user and group IDs displayed numerically
 This script creates directory inside /tmp/ directory
 This script moves file to a different folder
 This script deletes a file
+This script deletes a directory
