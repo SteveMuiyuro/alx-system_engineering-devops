@@ -12,3 +12,4 @@ This script creates a link
 This script copies unique files from the current directory to the parent directory
 This script moves all files starting with a capital letter
 This script removes all files ending with ~
+This script creates directory and sub directories
