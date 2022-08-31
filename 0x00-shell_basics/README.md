@@ -6,3 +6,4 @@ This script moves file to a different folder
 This script deletes a file
 This script deletes a directory
 This script changes a directory to the previous
+This script ists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
