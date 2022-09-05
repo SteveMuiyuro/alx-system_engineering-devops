@@ -19,3 +19,4 @@ This script displays all the lines in the file /etc/passwd that do not contain t
 This script displays all lines of the file /etc/ssh/sshd_config starting with a letter
 This script replaces all characters A and c from input to Z and e respectively
 This script creates a script that removes all letters c and C from input
+This script reverses its input
