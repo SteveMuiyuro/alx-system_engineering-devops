@@ -4,3 +4,4 @@ This script displays the contents of a file
 This script displays the contents of multiple files
 This script displays the last 10 lines of the file
 This script prints the first 10 lines
+This scrip prints the third line of a file
