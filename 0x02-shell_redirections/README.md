@@ -9,3 +9,4 @@ This command creates a file and writes a test inside it
 This script writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content
 This script duplicates the last line of the file
 This script deletes all the files with extension js
+This script counts the number of directories and sub-directories in the current directory
