@@ -10,3 +10,4 @@ This script prints the result of the addition of 128 with the value stored in th
 This script prints the result of POWER divided by DIVIDE, followed by a new line.
 This script displays the result of BREATH to the power LOVE
 This script converts a number from base 2 to base 10.
+This script prints all possible combinations of two letters, except oo
