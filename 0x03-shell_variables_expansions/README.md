@@ -7,3 +7,4 @@ This script lists all local variables and environment variables, and functions.
 This script creates a new local varible
 This script creates global variables
 This script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+This script prints the result of POWER divided by DIVIDE, followed by a new line.
